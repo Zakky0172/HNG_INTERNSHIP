@@ -1,0 +1,16 @@
+/* Here is my style sheet */
+.profile {
+    text-align: center;
+    margin: 18px;
+}
+
+.profile img {
+    height:50vh;
+    width: auto;
+    border-radius: 10%;
+}
+
+.github-link {
+    text-align: center;
+    margin: 20px;
+}
